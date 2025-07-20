@@ -1,0 +1,4 @@
+venv/
+.env
+astro/docker_compose.yml
+astro/tests

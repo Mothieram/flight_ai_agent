@@ -1,0 +1,101 @@
+id,flight_date,flight_status,departure_airport,departure_timezone,arrival_airport,arrival_timezone,airline_name
+1,2025-07-21,scheduled,Esenboga International,Europe/Istanbul,Elazig,Europe/Istanbul,AJet
+2,2025-07-21,scheduled,Esenboga International,Europe/Istanbul,Almaty,Asia/Almaty,AJet
+3,2025-07-21,scheduled,Zvartnots International,Asia/Yerevan,Domodedovo,Europe/Moscow,Ural Airlines
+4,2025-07-21,scheduled,Irkutsk,Asia/Irkutsk,Chita,Asia/Yakutsk,IrAero
+5,2025-07-21,scheduled,Irkutsk,Asia/Irkutsk,Chita,Asia/Yakutsk,S7 Airlines
+6,2025-07-21,scheduled,Guangzhou Baiyun International,Asia/Shanghai,Seoul (Incheon),Asia/Seoul,Asiana Airlines
+7,2025-07-21,scheduled,Guangzhou Baiyun International,Asia/Shanghai,Seoul (Incheon),Asia/Seoul,Shenzhen Airlines
+8,2025-07-21,scheduled,Lohegaon,Asia/Kolkata,Indira Gandhi International,Asia/Kolkata,Air India
+9,2025-07-21,scheduled,Goa International,Asia/Kolkata,Dubai,Asia/Dubai,Air India Express
+10,2025-07-21,scheduled,Goa International,Asia/Kolkata,Dubai,Asia/Dubai,Air India
+11,2025-07-21,scheduled,Goa International,Asia/Kolkata,Chhatrapati Shivaji International (Sahar International),Asia/Kolkata,IndiGo
+12,2025-07-21,scheduled,Goa International,Asia/Kolkata,Chhatrapati Shivaji International (Sahar International),Asia/Kolkata,Virgin Atlantic
+13,2025-07-21,scheduled,Haneda Airport,Asia/Tokyo,Naha,Asia/Tokyo,Solaseed Air
+14,2025-07-21,scheduled,Haneda Airport,Asia/Tokyo,Naha,Asia/Tokyo,ANA
+15,2025-07-21,scheduled,Haneda Airport,Asia/Tokyo,Taiwan Taoyuan International (Chiang Kai Shek International),Asia/Taipei,Peach Aviation
+16,2025-07-21,scheduled,Haneda Airport,Asia/Tokyo,Taiwan Taoyuan International (Chiang Kai Shek International),Asia/Taipei,Tigerair Taiwan
+17,2025-07-21,scheduled,Haneda Airport,Asia/Tokyo,Kita Kyushu,Asia/Tokyo,Spring Airlines Japan
+18,2025-07-21,scheduled,Haneda Airport,Asia/Tokyo,Chitose,Asia/Tokyo,Spring Airlines Japan
+19,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Charles De Gaulle,Europe/Paris,Ethiopian Airlines
+20,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Charles De Gaulle,Europe/Paris,ANA
+21,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Charles De Gaulle,Europe/Paris,Air Canada
+22,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Marseille Provence Airport,Europe/Paris,Ethiopian Airlines
+23,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Frankfurt International Airport,Europe/Berlin,Ethiopian Airlines
+24,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Frankfurt International Airport,Europe/Berlin,United Airlines
+25,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Frankfurt International Airport,Europe/Berlin,TAP Air Portugal
+26,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Frankfurt International Airport,Europe/Berlin,ANA
+27,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Frankfurt International Airport,Europe/Berlin,Lufthansa
+28,2025-07-21,scheduled,Bole International,Africa/Addis_Ababa,Jomo Kenyatta International,Africa/Nairobi,Ethiopian Airlines
+29,2025-07-21,scheduled,Fuzhou,Asia/Shanghai,Nanjing Lukou International Airport,Asia/Shanghai,China Postal Airlines
+30,2025-07-21,scheduled,Jinjiang,Asia/Shanghai,Nanjing Lukou International Airport,Asia/Shanghai,China Postal Airlines
+31,2025-07-21,scheduled,Beijing Capital International,Asia/Shanghai,Nanjing Lukou International Airport,Asia/Shanghai,China Postal Airlines
+32,2025-07-21,scheduled,Diosdado Macapagal International (Clark International),Asia/Manila,Sayak Airport,Asia/Manila,RUS Aviation
+33,2025-07-21,scheduled,Diosdado Macapagal International (Clark International),Asia/Manila,Sayak Airport,Asia/Manila,empty
+34,2025-07-21,scheduled,Mackay,Australia/Brisbane,Brisbane International,Australia/Brisbane,Virgin Australia
+35,2025-07-21,scheduled,,,Soekarno-Hatta International,Asia/Jakarta,Cargolux
+36,2025-07-21,scheduled,Phuket International,Asia/Bangkok,Nanning,Asia/Shanghai,Sichuan Airlines
+37,2025-07-21,scheduled,Phuket International,Asia/Bangkok,Abu Dhabi International,Asia/Dubai,Etihad Airways
+38,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Tauranga,Pacific/Auckland,Air New Zealand
+39,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Invercargill,Pacific/Auckland,Air New Zealand
+40,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Invercargill,Pacific/Auckland,Qantas
+41,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Nelson,Pacific/Auckland,Air New Zealand
+42,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Hamilton,Pacific/Auckland,Air New Zealand
+43,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Queenstown,Pacific/Auckland,Air New Zealand
+44,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Queenstown,Pacific/Auckland,Etihad Airways
+45,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Hokitika Airport,Pacific/Auckland,Air New Zealand
+46,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Dunedin International,Pacific/Auckland,Air New Zealand
+47,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Dunedin International,Pacific/Auckland,Etihad Airways
+48,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Auckland International,Pacific/Auckland,Jetstar
+49,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Auckland International,Pacific/Auckland,Qantas
+50,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Auckland International,Pacific/Auckland,Fiji Airways
+51,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Auckland International,Pacific/Auckland,Emirates
+52,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Auckland International,Pacific/Auckland,American Airlines
+53,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Palmerston North,Pacific/Auckland,Air New Zealand
+54,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Melbourne - Tullamarine Airport,Australia/Melbourne,Jetstar
+55,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Melbourne - Tullamarine Airport,Australia/Melbourne,Qantas
+56,2025-07-21,scheduled,Christchurch International,Pacific/Auckland,Melbourne - Tullamarine Airport,Australia/Melbourne,Emirates
+57,2025-07-21,scheduled,Chu-Bu Centrair International (Central Japan International),Asia/Tokyo,Yantai,Asia/Shanghai,Central Airlines
+58,2025-07-21,scheduled,Chu-Bu Centrair International (Central Japan International),Asia/Tokyo,Jinan,Asia/Shanghai,Shandong Airlines
+59,2025-07-21,scheduled,Williamtown,Australia/Sydney,Gold Coast (coolangatta),Australia/Brisbane,empty
+60,2025-07-21,scheduled,Fenghuang International (Phoenix International),Asia/Shanghai,Sheremetyevo International,Europe/Moscow,Aeroflot
+61,2025-07-21,scheduled,Fenghuang International (Phoenix International),Asia/Shanghai,Noibai International,Asia/Ho_Chi_Minh,Bamboo Airways
+62,2025-07-21,scheduled,Fenghuang International (Phoenix International),Asia/Shanghai,Vladivostok,Asia/Vladivostok,Aeroflot
+63,2025-07-21,scheduled,Melbourne - Tullamarine Airport,Australia/Melbourne,Canberra,Australia/Sydney,IndiGo
+64,2025-07-21,scheduled,Shanghai Pudong International,Asia/Shanghai,Shuangliu,Asia/Shanghai,SF Airlines
+65,2025-07-21,scheduled,Shanghai Pudong International,Asia/Shanghai,Istanbul Airport,Europe/Istanbul,China Eastern Airlines
+66,2025-07-21,scheduled,Sydney Kingsford Smith Airport,Australia/Sydney,Brisbane International,Australia/Brisbane,Emirates
+67,2025-07-21,scheduled,Sydney Kingsford Smith Airport,Australia/Sydney,Brisbane International,Australia/Brisbane,Jetstar
+68,2025-07-21,scheduled,Sydney Kingsford Smith Airport,Australia/Sydney,Melbourne - Tullamarine Airport,Australia/Melbourne,Jetstar
+69,2025-07-21,scheduled,Sydney Kingsford Smith Airport,Australia/Sydney,Gold Coast (coolangatta),Australia/Brisbane,Jetstar
+70,2025-07-21,scheduled,Sydney Kingsford Smith Airport,Australia/Sydney,Gold Coast (coolangatta),Australia/Brisbane,Qantas
+71,2025-07-21,scheduled,Sydney Kingsford Smith Airport,Australia/Sydney,Nadi International,Pacific/Fiji,Fiji Airways
+72,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Shenzhen,Asia/Shanghai,SF Airlines
+73,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Hangzhou,Asia/Shanghai,SF Airlines
+74,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Shanghai Pudong International,Asia/Shanghai,Suparna Airlines
+75,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Hangzhou,Asia/Shanghai,SF Airlines
+76,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Shenzhen,Asia/Shanghai,Central Airlines
+77,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Nanjing Lukou International Airport,Asia/Shanghai,China Postal Airlines
+78,2025-07-21,scheduled,Tianhe International,Asia/Shanghai,Singapore Changi,Asia/Singapore,Scoot
+79,2025-07-21,scheduled,Riga International,Europe/Riga,Dubai,Asia/Dubai,Air Baltic
+80,2025-07-21,scheduled,Riga International,Europe/Riga,Dubai,Asia/Dubai,Emirates
+81,2025-07-21,scheduled,Amata Kabua International,Pacific/Majuro,,,empty
+82,2025-07-21,scheduled,Guam International,Pacific/Guam,Ninoy Aquino International,Asia/Manila,Philippine Airlines
+83,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Sydney Kingsford Smith Airport,Australia/Sydney,Virgin Australia
+84,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Sydney Kingsford Smith Airport,Australia/Sydney,United Airlines
+85,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Sydney Kingsford Smith Airport,Australia/Sydney,Singapore Airlines
+86,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Sydney Kingsford Smith Airport,Australia/Sydney,Hawaiian Airlines
+87,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Roma,Australia/Brisbane,Rex Regional Express
+88,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,Qantas
+89,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,Cathay Pacific
+90,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,IndiGo
+91,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,American Airlines
+92,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,LATAM Airlines
+93,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,China Eastern Airlines
+94,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,Air New Zealand
+95,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,Emirates
+96,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Sydney Kingsford Smith Airport,Australia/Sydney,Jetstar
+97,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Adelaide International Airport,Australia/Adelaide,Jetstar
+98,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,Virgin Australia
+99,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,United Airlines
+100,2025-07-21,scheduled,Brisbane International,Australia/Brisbane,Melbourne - Tullamarine Airport,Australia/Melbourne,Singapore Airlines
